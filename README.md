@@ -12,6 +12,8 @@ The fully recovered file:
 
 ## Exercise 2
 
+![Fixed](hidden-message.png)
+
 
 
 ## Exercise 3
